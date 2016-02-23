@@ -1,0 +1,3 @@
+write('hello world').
+nl.
+write('that's it').
